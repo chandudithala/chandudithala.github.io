@@ -3,6 +3,8 @@
 }
 
 body {
-    background: #000;
+    background: url(https://cdn2.hubspot.net/hubfs/202339/canvas/images/parallax/Website-Design-Background.png) no-reapet;
+    width:100%;
+    height:100%;
     color: #fff;
 }
