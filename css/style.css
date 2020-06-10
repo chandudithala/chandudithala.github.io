@@ -11,3 +11,16 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.default_class{
+    text-shadow: 1px 3px 2px #000;
+}
+.default_class a{
+    color: #00ff72;
+    text-shadow: none;
+    text-decoration: underline;
+}
+.default_class a:hover{
+    color: #ff17e2;
+    text-shadow: 1px 3px 2px #000 !important;
+    text-decoration: none !important;
+}
