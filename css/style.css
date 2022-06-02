@@ -13,6 +13,7 @@ body {
 }
 .default_class a{
     color: #42fff6 !important;
+    text-shadow: 0 3px 1px #000;
 }
 .default_class a:hover{
     color: #00ff72 !important;
