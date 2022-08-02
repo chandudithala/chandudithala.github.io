@@ -11,9 +11,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+h2{
+    font-size:42px;
+}
 .default_class a{
     color: #42fff6 !important;
-    text-shadow: 0 3px 1px #000;
+    text-shadow: 0 2px 1px #000;
 }
 .default_class a:hover{
     color: #00ff72 !important;
